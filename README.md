@@ -53,6 +53,9 @@ Inspiration:
 
 https://www.youtube.com/watch?v=tYUYz6l4TWw
 
+And my roommates who are Master’s students introduced me to Javadocs and gave me a basic concept of what they are.
+
+
 
 ---
 
