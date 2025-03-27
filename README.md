@@ -50,7 +50,9 @@ Professional-quality Javadoc has been written for:
 
 Inspiration:  
 [Oracle Java Collections Framework Docs](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)
+
 https://www.youtube.com/watch?v=tYUYz6l4TWw
+
 
 ---
 
